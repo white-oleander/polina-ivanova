@@ -1,2 +1,2 @@
 # polina-ivanova
-my site
+www.polina-ivanova.com
