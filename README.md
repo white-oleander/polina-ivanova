@@ -1,2 +1,1 @@
-# polina-ivanova
-www.polina-ivanova.com
+[Link to my website](www.polina-ivanova.com)
