@@ -1,1 +1,1 @@
-[Link to my website](www.polina-ivanova.com)
+www.polina-ivanova.com
